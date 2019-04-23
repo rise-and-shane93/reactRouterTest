@@ -1,13 +1,13 @@
 {
-  "main.css": "/reactRouterTest.git/static/css/main.5a9d5a71.chunk.css",
-  "main.js": "/reactRouterTest.git/static/js/main.839b3bbb.chunk.js",
-  "main.js.map": "/reactRouterTest.git/static/js/main.839b3bbb.chunk.js.map",
-  "runtime~main.js": "/reactRouterTest.git/static/js/runtime~main.93c29d63.js",
-  "runtime~main.js.map": "/reactRouterTest.git/static/js/runtime~main.93c29d63.js.map",
-  "static/js/2.392253f1.chunk.js": "/reactRouterTest.git/static/js/2.392253f1.chunk.js",
-  "static/js/2.392253f1.chunk.js.map": "/reactRouterTest.git/static/js/2.392253f1.chunk.js.map",
-  "index.html": "/reactRouterTest.git/index.html",
-  "precache-manifest.7b7e3832e6145a4db2ea3a27a576e462.js": "/reactRouterTest.git/precache-manifest.7b7e3832e6145a4db2ea3a27a576e462.js",
-  "service-worker.js": "/reactRouterTest.git/service-worker.js",
-  "static/css/main.5a9d5a71.chunk.css.map": "/reactRouterTest.git/static/css/main.5a9d5a71.chunk.css.map"
+  "main.css": "/reactRouterTest/static/css/main.5a9d5a71.chunk.css",
+  "main.js": "/reactRouterTest/static/js/main.839b3bbb.chunk.js",
+  "main.js.map": "/reactRouterTest/static/js/main.839b3bbb.chunk.js.map",
+  "runtime~main.js": "/reactRouterTest/static/js/runtime~main.7a13548e.js",
+  "runtime~main.js.map": "/reactRouterTest/static/js/runtime~main.7a13548e.js.map",
+  "static/js/2.392253f1.chunk.js": "/reactRouterTest/static/js/2.392253f1.chunk.js",
+  "static/js/2.392253f1.chunk.js.map": "/reactRouterTest/static/js/2.392253f1.chunk.js.map",
+  "index.html": "/reactRouterTest/index.html",
+  "precache-manifest.4b11fc68d009e01fe1c4a50a783c6658.js": "/reactRouterTest/precache-manifest.4b11fc68d009e01fe1c4a50a783c6658.js",
+  "service-worker.js": "/reactRouterTest/service-worker.js",
+  "static/css/main.5a9d5a71.chunk.css.map": "/reactRouterTest/static/css/main.5a9d5a71.chunk.css.map"
 }
